@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akarshPy
 - 👀 I’m interested in ...machines
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...anything we can talk with intrest(machines XD)
+- 💞️ I’m looking to collaborate on ...anything we can talk with interest(machines XD)
 - 📫 How to reach me ... linkdin- https://www.linkedin.com/in/akarsh-roy-816398206
 
 <!---
